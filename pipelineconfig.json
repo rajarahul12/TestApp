@@ -15,8 +15,8 @@
     "port": "30989",
     "servercred": "admin:admin"
   },
-  "userName":"{github_user_name}",
-  "repoName": "{github_repo_name}",
+  "userName":"rajarahul12",
+  "repoName": "TestApp",
   "ios": {
      "host": "9.109.199.108",
      "botId": "1f4a17d56578a822a49567af88000ead"
