@@ -1,0 +1,24 @@
+{
+  "env_choice": "default",
+  "development": {
+    "hostname": "184.173.5.44",
+    "port": "30989",
+    "servercred": "admin:admin"
+  },
+  "production": {
+    "hostname": "184.173.5.44",
+    "port": "30989",
+    "servercred": "admin:admin"
+  },
+  "default": {
+    "hostname": "184.173.5.44",
+    "port": "30989",
+    "servercred": "admin:admin"
+  },
+  "userName":"{github_user_name}",
+  "repoName": "{github_repo_name}",
+  "ios": {
+     "host": "9.109.199.108",
+     "botId": "1f4a17d56578a822a49567af88000ead"
+  }
+}
